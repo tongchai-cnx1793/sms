@@ -24,7 +24,7 @@
       <a href="./" class="h1"><b>Login</b></a>
     </div>
     <div class="card-body">
-      <p class="login-box-msg">test</p>
+      <p class="login-box-msg">Sign in to start your session</p>
 
       <form id="login-frm" action="" method="post">
         <div class="input-group mb-3">
